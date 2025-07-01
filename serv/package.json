@@ -1,0 +1,23 @@
+{
+  "name": "serv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "rm -rf dist",
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fastify": "^5.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.10",
+    "typescript": "^5.8.3"
+  }
+}
