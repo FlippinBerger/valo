@@ -1,4 +1,4 @@
-# Valo Expolorer
+# Valo Explorer
 
 This is a quick project to play with different tech stacks utilizing the [free Valorant API](https://valorant-api.com/)
 
